@@ -122,5 +122,14 @@ Use . notation for js files.
 
     page.controller.js
 
+General folder structure:
 
+    /styles/
+    /sass
+    /scripts/
+    	/libs/
+    	/app
+    config.rb
+    
+Alternatively /css and /js can be used.
 
